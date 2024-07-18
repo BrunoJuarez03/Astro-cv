@@ -52,13 +52,27 @@
       ]
     }],
     "education": [{
-      "institution": "University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
+      "institution": "Universidad Tecnologica Nacional - FRT",
+      "url": "",
+      "area": "Tecnicatura Universitaria en programación.",
       "studyType": "Bachelor",
-      "startDate": "2011-01-01",
-      "endDate": "2013-01-01",
-      "score": "4.0",
+      "startDate": "abr 2022",
+      "endDate": "dic 2023",
+      "exp": [
+        "Desarrollo de un programa de registro y ajuste de asientos contables. (C# winforms .NET)", "Trabajo en equipo, utilizando practicas SCRUM, para el desarrollo de un aplicacion web que cumplia lafuncion de enviar correos electronicos a todo un sector seleccionado de una empresa. (ReactJs y NodeJs)","Desarrollo de CRUD para reserva de turnos de una peluqueria.(C# winforms .NET)", "Practica con Modelo de regresion lineal. (Python)"
+      ],
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },{
+      "institution": "Escuela Tecnica Nª1 de Lules.",
+      "url": "",
+      "area": "Tecnico Electronico / Electricista.",
+      "studyType": "Bachelor",
+      "startDate": "mar 2015",
+      "endDate": "nov 2021",
+      "exp": [
+        "Proyecto final de carrera: Diseño y prototipado de una impresora 3D utilizando Arduino."      ],
       "courses": [
         "DB1101 - Basic SQL"
       ]
@@ -122,14 +136,14 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Shh",
+      "name": "Porfolio minimalista.",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Chat-Room publica hosteada en Netlify con backend en Render.Com",
+      "description": "Proyecto simple de introduccion a Astro, basado en el proyecto original de Bartosz Jarocki.",
       "highlights": [
-        "ReactJs", "NodeJs", "Socket.Io"
+        "Astro", "Json Resume"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/BrunoJuarez03/Astro-cv"
     },{
       "name": "Bruno's MySqlBasics Notes",
       "startDate": "2019-01-01",
@@ -138,15 +152,15 @@
       "highlights": [
         "C# .Net Winforms", "MySql"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/BrunoJuarez03/MySql-Basics-App"
     },{
-      "name": "Porfolio minimalista.",
+      "name": "Shh",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Proyecto simple de introduccion a Astro, basado en el proyecto original de Bartosz Jarocki.",
+      "description": "Chat-Room publica hosteada en Netlify con backend en Render.Com - Puede que tarde en funcionar un rato al entrar por cosas de render.com :(",
       "highlights": [
-        "Astro", "Json Resume"
+        "ReactJs", "NodeJs", "Socket.Io"
       ],
-      "url": "https://project.com/"
+      "url": "https://eloquent-hotteok-a7b6c3.netlify.app/"
     }]
   }
