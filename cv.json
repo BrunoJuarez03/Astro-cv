@@ -37,7 +37,7 @@
       "endDate": "feb 2024",
       "summary": "Desarrollo e implementacion de un software simple de gestion siguiendo los requerimientos establecidos por el cliente. El software permitia llevar a cabo el control de stock y un registro de las ventas realizadas en el dia, contando con funciones extra como calcular el vuelto por cada venta, el total de todas las ventas, el dinero total pagado por los clientes y el utilizado para el vuelto, etc.",
       "highlights": [
-        ""
+        "C# .Net Winforms", "MySql"
       ]
     }],
     "volunteer": [{

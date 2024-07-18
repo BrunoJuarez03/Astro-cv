@@ -7,7 +7,7 @@ import Section from '../Section.astro'
     <ul>
         {
             work.map(
-                ({name, startDate, endDate, summary, position}) => {
+                ({name, startDate, endDate, summary, position, highlights}) => {
                     return(<li>
                         <article>
                             <header>
@@ -21,8 +21,14 @@ import Section from '../Section.astro'
                             </header>
                             
                             <footer>
-                                
                                 <p>{summary}</p>
+                                <ul>
+                                    {
+                                        highlights.map((highlights) =>{
+                                            return <li>{highlights}</li>
+                                        })
+                                    }
+                                </ul>
                             </footer>
                         </article>
                     </li>)
@@ -58,6 +64,28 @@ import Section from '../Section.astro'
 
     time{
         color: #111;
+    }
+
+    footer p{
+        margin: 10px;
+        margin-inline: 0;
+    }
+
+    footer ul{
+        
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    footer li{
+        border-radius: 6px;
+        background-color: #cfcfcf;
+        color: #111;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
     }
 
 </style>
