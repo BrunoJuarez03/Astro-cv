@@ -1,0 +1,85 @@
+---
+import { projects } from '../../../cv.json'
+import Section from '../Section.astro'
+---
+
+<Section title="Projectos">
+    <ul>
+        {
+            projects.map(
+                ({name, description, highlights,url}) => {
+                    return(<li>
+                        <article>
+                            <header>
+                                <a href={url}
+                                   title={`Ir A ${name}`}
+                                >
+                                    <h3>{name}</h3>
+                                </a>
+                                <p>{description}</p>
+                            </header>
+                            <footer>
+                                <ul>
+                                    {
+                                        highlights.map((highlights) =>{
+                                            return <li>{highlights}</li>
+                                        })
+                                    }
+                                </ul>
+                            </footer>
+                        </article>
+                    </li>)
+                    
+                }
+            )
+        }
+    </ul>
+</Section>
+
+<style>
+
+    ul{
+        display: grid;
+        grid-template-columns: repeat(
+            auto-fit,
+            minmax(200px, 1fr)
+        );
+        gap: 1rem;
+    }
+
+
+    article{
+        border: 1px solid gainsboro;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        padding: 16px;
+        height: 100%;
+        justify-content: space-between;
+    }
+
+    article h3{
+        margin-bottom: 10px;
+    }
+
+    article a:hover{
+        text-decoration: underline;
+    }
+
+    footer ul{
+        display: inline-flex;
+        flex-wrap: wrap;
+        margin: 10px;
+    }
+
+    footer li{
+        border-radius: 6px;
+        background-color: #cfcfcf;
+        color: #111;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
+    }
+
+</style>

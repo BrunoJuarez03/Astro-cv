@@ -1,0 +1,152 @@
+{
+    "basics": {
+      "name": "Bruno Sebastian Juarez",
+      "label": "Desarrollador Web Full-Stack Jr. / Programador Jr.",
+      "image": "",
+      "email": "juarezbrunosebastian2003@gmail.com",
+      "phone": "+54 381 396 6546",
+      "url": "https://brunojuarez.netlify.app",
+      "summary": "Freelancer recientemente graduado, especializado en el desarrollo web con enfoque full-stack y conocimientos de desarrollo de software.",
+      "location": {
+        "address": "La Rioja 114",
+        "city": "San Miguel de Tucuman",
+        "countryCode": "ARG",
+        "region": "Tucuman"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "Bruno Juarez",
+        "url": "https://www.linkedin.com/in/bruno-juarez-382382312/"
+      },
+      {
+        "network": "GitHub",
+        "username": "BrunoJuarez09",
+        "url": "https://github.com/BrunoJuarez03"
+      },
+      {
+        "network": "Mail",
+        "username": "Juarez Bruno",
+        "url": "juarezbrunosebastian2003@gmail.com"
+      }]
+    },
+    "work": [{
+      "name": "Panaderia 'Tres chinitas'",
+      "position": "Desarrollador de Software",
+      "url": "",
+      "startDate": "feb 2024",
+      "endDate": "feb 2024",
+      "summary": "Desarrollo e implementacion de un software simple de gestion siguiendo los requerimientos establecidos por el cliente. El software permitia llevar a cabo el control de stock y un registro de las ventas realizadas en el dia, contando con funciones extra como calcular el vuelto por cada venta, el total de todas las ventas, el dinero total pagado por los clientes y el utilizado para el vuelto, etc.",
+      "highlights": [
+        ""
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "React js. / Next js."
+    },
+    {
+      "name": "Astro"
+    },
+    {
+      "name": "Nodejs"
+    },
+    {
+      "name": "Socket.Io"
+    },
+    {
+      "name": "C#.Net"
+    },
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Wordpress"
+    },
+    {
+      "name": "Storybook"
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Shh",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Chat-Room publica hosteada en Netlify con backend en Render.Com",
+      "highlights": [
+        "ReactJs", "NodeJs", "Socket.Io"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Bruno's MySqlBasics Notes",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Aplicacion simple con notas de las bases de MySq y otros datos, incluye en ejecutador de querys.",
+      "highlights": [
+        "C# .Net Winforms", "MySql"
+      ],
+      "url": "https://project.com/"
+    },{
+      "name": "Porfolio minimalista.",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Proyecto simple de introduccion a Astro, basado en el proyecto original de Bartosz Jarocki.",
+      "highlights": [
+        "Astro", "Json Resume"
+      ],
+      "url": "https://project.com/"
+    }]
+  }

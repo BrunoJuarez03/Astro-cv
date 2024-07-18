@@ -1,0 +1,49 @@
+---
+import { skills } from '../../../cv.json'
+import Section from '../Section.astro'
+import Mail from '../../icons/Mail.astro'
+import GitHub from '../../icons/GitHub.astro'
+import LinkedIn from '../../icons/LinkedIn.astro'
+import WordlMap from '../../icons/WorldMap.astro'
+
+
+---
+
+<Section title="Skills">
+    <ul>
+        {
+            skills.map(({name}) =>{
+                return(
+                    <li>
+                        <span>{name}</span>
+                    </li>
+                )
+            })
+        }
+    </ul>
+</Section>
+
+<style>
+
+    ul{
+        display: inline-flex;
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+
+    li{
+        border-radius: 6px;
+        background-color: #cfcfcf;
+        color: #111;
+        font-size: 1rem;
+        font-weight: 500;
+        padding: 0.2rem 0.6rem;
+        transition: 0.3s;
+    }
+
+    li:hover{
+        background-color: #e6e6e6;
+        transition: 0.3s;
+    }
+
+</style>
