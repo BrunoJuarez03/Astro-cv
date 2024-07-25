@@ -35,7 +35,7 @@
       "url": "",
       "startDate": "feb 2024",
       "endDate": "feb 2024",
-      "summary": "Desarrollo e implementacion de un software simple de gestion siguiendo los requerimientos establecidos por el cliente. El software permitia llevar a cabo el control de stock y un registro de las ventas realizadas en el dia, contando con funciones extra como calcular el vuelto por cada venta, el total de todas las ventas, el dinero total pagado por los clientes y el utilizado para el vuelto, etc.",
+      "summary": "Development and implementation of a simple management software following the requirements established by the client. The application allowed some functions like stock control, recording of the sales made on the day, calculating the return for each sale, total of all sales, total money paid by customers and the amount used for change, etc.",
       "highlights": [
         "C# .Net Winforms", "MySql"
       ]
@@ -56,7 +56,7 @@
       "url": "",
       "area": "Tecnicatura Universitaria en programación.",
       "studyType": "Bachelor",
-      "startDate": "abr 2022",
+      "startDate": "apr 2022",
       "endDate": "dic 2023",
       "exp": [
         "Desarrollo de un programa de registro y ajuste de asientos contables. (C# winforms .NET)", "Trabajo en equipo, utilizando practicas SCRUM, para el desarrollo de un aplicacion web que cumplia lafuncion de enviar correos electronicos a todo un sector seleccionado de una empresa. (ReactJs y NodeJs)","Desarrollo de CRUD para reserva de turnos de una peluqueria.(C# winforms .NET)", "Practica con Modelo de regresion lineal. (Python)"
