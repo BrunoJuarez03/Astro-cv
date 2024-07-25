@@ -82,7 +82,7 @@
       "startDate": "mar 2015",
       "endDate": "nov 2021",
       "exp": [
-        "Proyecto final de carrera: Diseño y prototipado de una impresora 3D utilizando Arduino."      ],
+        "Design and prototype of an Arduino 3Dprinter."      ],
       "courses": [
         "DB1101 - Basic SQL"
       ]
@@ -146,10 +146,10 @@
       "reference": "Reference…"
     }],
     "projects": [{
-      "name": "Porfolio minimalista.",
+      "name": "Minimalist PortFolio.",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Proyecto simple de introduccion a Astro, basado en el proyecto original de Bartosz Jarocki.",
+      "description": "Simple project created as an introduction to Astro, based on the work of Bartosz Jarocki.",
       "highlights": [
         "Astro", "Json Resume"
       ],
@@ -158,7 +158,7 @@
       "name": "Bruno's MySqlBasics Notes",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Aplicacion simple con notas de las bases de MySq y otros datos, incluye en ejecutador de querys.",
+      "description": "Simple app with my MySql notes and other data, it includes a query executor.",
       "highlights": [
         "C# .Net Winforms", "MySql"
       ],
@@ -167,9 +167,18 @@
       "name": "Shh",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
-      "description": "Chat-Room publica hosteada en Netlify con backend en Render.Com - Puede que tarde en funcionar un rato al entrar por cosas de render.com :(",
+      "description": "Public chat-room hosted on netlify and Render.com - it may take a minute or two to start working once you login but it does work, i promise :(",
       "highlights": [
         "ReactJs", "NodeJs", "Socket.Io"
+      ],
+      "url": "https://eloquent-hotteok-a7b6c3.netlify.app/"
+    },{
+      "name": "Sublimaciones Don Castillo Landing page (still working on it)",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Sublimation business Landing page.",
+      "highlights": [
+        "Astro"
       ],
       "url": "https://eloquent-hotteok-a7b6c3.netlify.app/"
     }]
