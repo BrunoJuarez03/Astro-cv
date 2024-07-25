@@ -31,13 +31,23 @@
     },
     "work": [{
       "name": "Panaderia 'Tres chinitas'",
-      "position": "Desarrollador de Software",
+      "position": "Software Development",
       "url": "",
       "startDate": "feb 2024",
       "endDate": "feb 2024",
       "summary": "Development and implementation of a simple management software following the requirements established by the client. The application allowed some functions like stock control, recording of the sales made on the day, calculating the return for each sale, total of all sales, total money paid by customers and the amount used for change, etc.",
       "highlights": [
         "C# .Net Winforms", "MySql"
+      ]
+    },{
+      "name": "Sublimaciones Don Castillo",
+      "position": "Software Development",
+      "url": "",
+      "startDate": "july 2024",
+      "endDate": "still active",
+      "summary": "Development of a simple landing page for a sublimation business.",
+      "highlights": [
+        "Astro"
       ]
     }],
     "volunteer": [{
