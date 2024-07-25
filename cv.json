@@ -41,7 +41,7 @@
       ]
     },{
       "name": "Sublimaciones Don Castillo",
-      "position": "Software Development",
+      "position": "Web Development",
       "url": "",
       "startDate": "july 2024",
       "endDate": "still active",
@@ -69,7 +69,7 @@
       "startDate": "apr 2022",
       "endDate": "dic 2023",
       "exp": [
-        "Development of an app for recording and adjusting book entries. (C# winforms .NET)", "Teamwork aplicating SCRUM practices, for the development of a web application that fulfilled the function of sending emails to an entire selected sector of a company. (ReactJs and NodeJs)","Development of CRUD to reserve appointments for a hair salon. (C# winforms .NET)", "Practice with Linear Regression Model. (Python)"
+        "Development of an app for recording and adjusting book entries. (C# winforms .NET)", "Teamwork applying SCRUM practices, for the development of a web application that fulfilled the function of sending emails to an entire selected sector of a company. (ReactJs NodeJs and MySql)","Development of CRUD to reserve appointments for a hair salon. (C# winforms .NET)", "Practice with Linear Regression Model. (Python)"
       ],
       "courses": [
         "DB1101 - Basic SQL"
