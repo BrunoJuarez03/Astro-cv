@@ -69,7 +69,7 @@
       "startDate": "apr 2022",
       "endDate": "dic 2023",
       "exp": [
-        "Desarrollo de un programa de registro y ajuste de asientos contables. (C# winforms .NET)", "Trabajo en equipo, utilizando practicas SCRUM, para el desarrollo de un aplicacion web que cumplia lafuncion de enviar correos electronicos a todo un sector seleccionado de una empresa. (ReactJs y NodeJs)","Desarrollo de CRUD para reserva de turnos de una peluqueria.(C# winforms .NET)", "Practica con Modelo de regresion lineal. (Python)"
+        "Development of an app for recording and adjusting book entries. (C# winforms .NET)", "Teamwork aplicating SCRUM practices, for the development of a web application that fulfilled the function of sending emails to an entire selected sector of a company. (ReactJs and NodeJs)","Development of CRUD to reserve appointments for a hair salon. (C# winforms .NET)", "Practice with Linear Regression Model. (Python)"
       ],
       "courses": [
         "DB1101 - Basic SQL"
