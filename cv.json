@@ -146,6 +146,15 @@
       "reference": "Reference…"
     }],
     "projects": [{
+      "name": "Sublimaciones Don Castillo Landing page",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Sublimation business Landing page.",
+      "highlights": [
+        "Astro"
+      ],
+      "url": "https://eloquent-hotteok-a7b6c3.netlify.app/"
+    },{
       "name": "Minimalist PortFolio.",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
@@ -170,15 +179,6 @@
       "description": "Public chat-room hosted on netlify and Render.com - it may take a minute or two to start working once you login but it does work, i promise :(",
       "highlights": [
         "ReactJs", "NodeJs", "Socket.Io"
-      ],
-      "url": "https://eloquent-hotteok-a7b6c3.netlify.app/"
-    },{
-      "name": "Sublimaciones Don Castillo Landing page (still working on it)",
-      "startDate": "2019-01-01",
-      "endDate": "2021-01-01",
-      "description": "Sublimation business Landing page.",
-      "highlights": [
-        "Astro"
       ],
       "url": "https://eloquent-hotteok-a7b6c3.netlify.app/"
     }]
