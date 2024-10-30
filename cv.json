@@ -146,6 +146,15 @@
       "reference": "Reference…"
     }],
     "projects": [{
+      "name": "Tucubands",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Pocketbase based project about free ads for musicians, artists, bands and more.",
+      "highlights": [
+        "ReactJs","PocketBase"
+      ],
+      "url": "https://tucubands.netlify.app/"
+    },{
       "name": "Sublimaciones Don Castillo Landing page",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
