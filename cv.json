@@ -135,7 +135,18 @@
       "name": "Jane Doe",
       "reference": "Reference…"
     }],
-    "projects": [{
+    "projects": [
+        {
+      "name": "Tucubands",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Clasificados gratuitos para bandas, artistas y demas en busca de musicos, promocion, ventas, etc. ",
+      "highlights": [
+        "ReactJs","PocketBase"
+      ],
+      "url": "https://tucubands.netlify.app/"
+    }
+        ,{
       "name": "Sublimaciones Don Castillo.",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
